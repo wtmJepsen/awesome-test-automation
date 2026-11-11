@@ -6,6 +6,7 @@
 - ## [一个用于chrome/chromium browser的node.js框架 taiko](https://taiko.gauge.org)
 - ## [轻量级跨平台测试工具 guage](https://github.com/getgauge/gauge) Gauge + Taiko = 稳定的浏览器自动化，用于js测试
 - ## [基于js的UI自动化框架](https://github.com/cypress-io/cypress) 
+- ## [agent-qa：覆盖 Web、Android 和 iOS 的 AI QA，具备持久化 memidex 记忆、经验证的自我改进及步骤/截图证据](https://vostride.com)（[源码](https://github.com/vostride/agent-qa)，FSL-1.1-ALv2；Node.js 24+，需配置模型和测试环境；许可范围内本地软件免费，模型与基础设施成本另计）
 
 # APP自动化
 - ## [Appium](https://github.com/appium/appium) 
